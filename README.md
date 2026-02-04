@@ -5,7 +5,7 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** focused on building intelli
 - 🚀 Currently working on: **Survey Intelligence Platform** & **Life-Management Suite**
 - 🧠 Exploring: **LLM Orchestration** with Google GenAI SDK
 - ⚙️ Deep Dive: Building a **Custom 3D Physics Engine** in C++
-- 🌍 Portfolio: [My Portfolio Site](https://portfolio-nine-omega-ykiszgwifs.vercel.app/)
+- 🌍 Portfolio: [My Portfolio Site](https://jgkiran.vercel.app/)
 
 ---
 
